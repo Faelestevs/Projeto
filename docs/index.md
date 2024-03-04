@@ -27,8 +27,8 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
+* Raffael Rodrigues Esteves - 10420414
+* Guilherme Silva Dias - 10427415
 * Arthur Jones Bicalho - RA 10420317 
 * Aluno 4
 * Aluno 5
