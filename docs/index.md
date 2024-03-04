@@ -28,7 +28,7 @@
 # Autores
 
 * Raffael Rodrigues Esteves - 10420414
-* Aluno 2
+* Guilherme Silva Dias - 10427415
 * Aluno 3
 * Aluno 4
 * Aluno 5
