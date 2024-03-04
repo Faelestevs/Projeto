@@ -29,7 +29,7 @@
 
 * Aluno 1
 * Aluno 2
-* Arthur Jones Bicalho - RA 10420317
+* Arthur Jones Bicalho - RA 10420317 
 * Aluno 4
 * Aluno 5
 * Aluno 6
