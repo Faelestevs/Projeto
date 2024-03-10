@@ -41,6 +41,9 @@
 
 *&lt;Introdução do projeto&gt;*
 
+Devido ao grande índice de queda de vendas do modelo a Pizza-Express, uma querida rede de fast-food e entrega em domicílio com 40 lojas, enfrenta um desafio: 30% de perda de receita devido à crescente concorrência. O principal rival oferece entrega em 30 minutos, enquanto a Pizza-Express leva uma hora.
+
+
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
 
