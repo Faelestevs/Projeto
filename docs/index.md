@@ -31,7 +31,7 @@
 * Guilherme Silva Dias - 10427415
 * Arthur Jones Bicalho - RA 10420317 
 * Tamires Mendes da Silva - 10420266
-* Aluno 5
+* Fernando Seong Jae Yoo - 10332725
 * Aluno 6
 * Aluno 7
 * Aluno 8
