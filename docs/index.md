@@ -49,22 +49,22 @@ Devido ao grande índice de queda de vendas do modelo a Pizza-Express, uma queri
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais: 
 
-Sistema de cadastro para o cliente.
-Disponibilização do cardápio.
-Suporte a pagamento via cartão e pix.
-SIstema de conexão entre lojas Pizza-Express e Fábrica Pizza-Express com base no endereço fornecido pelo cliente.
-Sistema de gerenciamento de pedidos para Fábrica Pizza-Express.
-Solicitação de serviços de entrega.
-Processo de segurança aos dados do cliente.
+Sistema de cadastro para o cliente.  
+Disponibilização do cardápio.  
+Suporte a pagamento via cartão e pix.  
+SIstema de conexão entre lojas Pizza-Express e Fábrica Pizza-Express com base no endereço fornecido pelo cliente.  
+Sistema de gerenciamento de pedidos para Fábrica Pizza-Express.  
+Solicitação de serviços de entrega.  
+Processo de segurança aos dados do cliente.  
 
 
 Requisitos Não-Funcionais
 
-Solicitar o pedido do cliente para a Fábrica mais próxima do endereço registrado.
-Sistema desenvolvido de forma simples com foco na praticidade de uso.
-Escalabilidade, capacidade para suportar a utilização do sistema por múltiplos usuários ao mesmo tempo.
-Acessibilidade para que a utilização de sistema seja possível por todos.
-Sustentabilidade.
+Solicitar o pedido do cliente para a Fábrica mais próxima do endereço registrado.  
+Sistema desenvolvido de forma simples com foco na praticidade de uso.  
+Escalabilidade, capacidade para suportar a utilização do sistema por múltiplos usuários ao mesmo tempo.  
+Acessibilidade para que a utilização de sistema seja possível por todos.  
+Sustentabilidade.  
 
 # Diagrama de Atividades
 
