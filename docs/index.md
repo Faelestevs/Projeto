@@ -31,6 +31,7 @@
 * Guilherme Silva Dias - 10427415
 * Arthur Jones Bicalho - 10420317 
 * Tamires Mendes da Silva - 10420266
+* Fernando Seong Jae Yoo - 10332725
 
 # Descrição do Projeto
 
@@ -45,6 +46,9 @@ localizar as lojas da rede Pizza-Express que estão mais próximas do cliente e 
 para operá-las. O objetivo é tornar as entregas do Pizza-Express mais ágeis e diminuir o tempo 
 de entrega para menos de 30 minutos, possibilitando que o negócio entre em um cenário mais 
 competitivo em relação ao seu principal concorrente.</p>
+
+Devido ao grande índice de queda de vendas do modelo a Pizza-Express, uma querida rede de fast-food e entrega em domicílio com 40 lojas, enfrenta um desafio: 30% de perda de receita devido à crescente concorrência. O principal rival oferece entrega em 30 minutos, enquanto a Pizza-Express leva uma hora.
+
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
