@@ -31,7 +31,7 @@
 
 # Descrição do Projeto
 
-<p>Uma rede de fast-food composta por 40 unidades pertencentes ao Pizza-Express está 
+Uma rede de fast-food composta por 40 unidades pertencentes ao Pizza-Express está 
 enfrentando problemas devido a menor eficiência nas entregas, comprometendo seus lucros em 
 30%. A queda de receita está atrelada ao serviço ofertado pelo seu principal concorrente que se 
 mostrou mais ágil nas entregas por realizá-las em até 30 minutos, enquanto nas redes do Pizza Express leva-se uma hora. Os computadores utilizados atualmente pela rede Pizza-Express não 
@@ -41,17 +41,35 @@ Para solucionar o problema é necessário desenvolver um sistema que seja capaz 
 localizar as lojas da rede Pizza-Express que estão mais próximas do cliente e outra aplicação 
 para operá-las. O objetivo é tornar as entregas do Pizza-Express mais ágeis e diminuir o tempo 
 de entrega para menos de 30 minutos, possibilitando que o negócio entre em um cenário mais 
-competitivo em relação ao seu principal concorrente.</p>
+competitivo em relação ao seu principal concorrente.
 
 Devido ao grande índice de queda de vendas do modelo a Pizza-Express, uma querida rede de fast-food e entrega em domicílio com 40 lojas, enfrenta um desafio: 30% de perda de receita devido à crescente concorrência. O principal rival oferece entrega em 30 minutos, enquanto a Pizza-Express leva uma hora.
 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+Requisitos Funcionais: 
+
+Sistema de cadastro para o cliente.
+Disponibilização do cardápio.
+Suporte a pagamento via cartão e pix.
+SIstema de conexão entre lojas Pizza-Express e Fábrica Pizza-Express com base no endereço fornecido pelo cliente.
+Sistema de gerenciamento de pedidos para Fábrica Pizza-Express.
+Solicitação de serviços de entrega.
+Processo de segurança aos dados do cliente.
+
+
+Requisitos Não-Funcionais
+
+Solicitar o pedido do cliente para a Fábrica mais próxima do endereço registrado.
+Sistema desenvolvido de forma simples com foco na praticidade de uso.
+Escalabilidade, capacidade para suportar a utilização do sistema por múltiplos usuários ao mesmo tempo.
+Acessibilidade para que a utilização de sistema seja possível por todos.
+Sustentabilidade.
 
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+<img title="Diagrama de Atividades Pizza-Express" src="Projeto/docs/D"/>
 
 # Diagrama de Casos de Uso
 
