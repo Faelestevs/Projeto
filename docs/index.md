@@ -27,11 +27,11 @@
 
 # Autores
 
-* Raffael Rodrigues Esteves - 10420414
-* Guilherme Silva Dias - 10427415
 * Arthur Jones Bicalho - 10420317 
-* Tamires Mendes da Silva - 10420266
 * Fernando Seong Jae Yoo - 10332725
+* Guilherme Silva Dias - 10427415
+* Raffael Rodrigues Esteves - 10420414
+* Tamires Mendes da Silva - 10420266
 
 # Descrição do Projeto
 
