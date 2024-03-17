@@ -29,17 +29,22 @@
 
 * Raffael Rodrigues Esteves - 10420414
 * Guilherme Silva Dias - 10427415
-* Arthur Jones Bicalho - RA 10420317 
+* Arthur Jones Bicalho - 10420317 
 * Tamires Mendes da Silva - 10420266
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+<p>Uma rede de fast-food composta por 40 unidades pertencentes ao Pizza-Express está 
+enfrentando problemas devido a menor eficiência nas entregas, comprometendo seus lucros em 
+30%. A queda de receita está atrelada ao serviço ofertado pelo seu principal concorrente que se 
+mostrou mais ágil nas entregas por realizá-las em até 30 minutos, enquanto nas redes do Pizza Express leva-se uma hora. Os computadores utilizados atualmente pela rede Pizza-Express não 
+contam com funções de processamento e entrega dos pedidos, ficando limitado somente as 
+operações usuais do negócio.
+Para solucionar o problema é necessário desenvolver um sistema que seja capaz de 
+localizar as lojas da rede Pizza-Express que estão mais próximas do cliente e outra aplicação 
+para operá-las. O objetivo é tornar as entregas do Pizza-Express mais ágeis e diminuir o tempo 
+de entrega para menos de 30 minutos, possibilitando que o negócio entre em um cenário mais 
+competitivo em relação ao seu principal concorrente.</p>
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
