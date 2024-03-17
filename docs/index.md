@@ -69,7 +69,7 @@ Sustentabilidade.
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
-<img title="Diagrama de Atividades Pizza-Express" src="Projeto/docs/DAPizzaExpress.png"/>
+<img title="Diagrama de Atividades Pizza-Express" src="DAPizzaExpress.png"/>
 
 # Diagrama de Casos de Uso
 
