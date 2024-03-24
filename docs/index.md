@@ -72,7 +72,7 @@ Sustentabilidade.
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+<img title="Diagrama de Casos de Uso - Pizza-Express" src="UCPizzaExpress.jpeg">
 
 # Descrição dos Casos de Uso
 
