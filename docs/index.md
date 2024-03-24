@@ -36,15 +36,12 @@ enfrentando problemas devido a menor eficiência nas entregas, comprometendo seu
 30%. A queda de receita está atrelada ao serviço ofertado pelo seu principal concorrente que se 
 mostrou mais ágil nas entregas por realizá-las em até 30 minutos, enquanto nas redes do Pizza Express leva-se uma hora. Os computadores utilizados atualmente pela rede Pizza-Express não 
 contam com funções de processamento e entrega dos pedidos, ficando limitado somente as 
-operações usuais do negócio.
-Para solucionar o problema é necessário desenvolver um sistema que seja capaz de 
+operações usuais do negócio.</p>
+<p>Para solucionar o problema é necessário desenvolver um sistema que seja capaz de 
 localizar as lojas da rede Pizza-Express que estão mais próximas do cliente e outra aplicação 
 para operá-las. O objetivo é tornar as entregas do Pizza-Express mais ágeis e diminuir o tempo 
 de entrega para menos de 30 minutos, possibilitando que o negócio entre em um cenário mais 
 competitivo em relação ao seu principal concorrente.
-
-Devido ao grande índice de queda de vendas do modelo a Pizza-Express, uma querida rede de fast-food e entrega em domicílio com 40 lojas, enfrenta um desafio: 30% de perda de receita devido à crescente concorrência. O principal rival oferece entrega em 30 minutos, enquanto a Pizza-Express leva uma hora.
-
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais: 
