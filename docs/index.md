@@ -11,8 +11,16 @@
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Funcionais](#análise-de-requisitos-funcionais-e-não-funcionais)
+    - [Requisitos Funcionais:](#requisitos-funcionais)
+    - [Requisitos Não-Funcionais](#requisitos-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+  - [Casos de uso](#casos-de-uso)
+    - [Cliente realiza o pedido (UC01)](#cliente-realiza-o-pedido-uc01)
+    - [Cliente realiza o pagamento (UC02)](#cliente-realiza-o-pagamento-uc02)
+    - [Cliente realiza o cadastro (UC03)](#cliente-realiza-o-cadastro-uc03)
+    - [Entregador realiza a entrega do pedido (UC04)](#entregador-realiza-a-entrega-do-pedido-uc04)
+    - [Funcionário da rede recebe o pedido (UC05)](#funcionário-da-rede-recebe-o-pedido-uc05)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
@@ -44,30 +52,48 @@ de entrega para menos de 30 minutos, possibilitando que o negócio entre em um c
 competitivo em relação ao seu principal concorrente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-Requisitos Funcionais: 
 
-Sistema de cadastro para o cliente.  
-Disponibilização do cardápio.  
-Suporte a pagamento via cartão e pix.  
-SIstema de conexão entre lojas Pizza-Express e Fábrica Pizza-Express com base no endereço fornecido pelo cliente.  
-Sistema de gerenciamento de pedidos para Fábrica Pizza-Express.  
-Solicitação de serviços de entrega.  
-Processo de segurança aos dados do cliente.  
+### Requisitos Funcionais: 
+
+- Sistema de cadastro para o cliente;  
+- Disponibilização do cardápio;
+- Suporte a pagamento via cartão e pix;
+- SIstema de conexão entre lojas Pizza-Express e Fábrica Pizza-Express com base no endereço fornecido pelo cliente;
+- Sistema de gerenciamento de pedidos para Fábrica Pizza-Express;
+- Solicitação de serviços de entrega;
+- Processo de segurança aos dados do cliente.
 
 
-Requisitos Não-Funcionais
+### Requisitos Não-Funcionais
 
-Solicitar o pedido do cliente para a Fábrica mais próxima do endereço registrado.  
-Sistema desenvolvido de forma simples com foco na praticidade de uso.  
-Escalabilidade, capacidade para suportar a utilização do sistema por múltiplos usuários ao mesmo tempo.  
-Acessibilidade para que a utilização de sistema seja possível por todos.  
-Sustentabilidade.  
+- Solicitar o pedido do cliente para a Fábrica mais próxima do endereço registrado; 
+- Sistema desenvolvido de forma simples com foco na praticidade de uso;
+- Escalabilidade, capacidade para suportar a utilização do sistema por múltiplos usuários ao mesmo tempo;
+- Acessibilidade para que a utilização de sistema seja possível por todos; 
+- Sustentabilidade.
 
 # Diagrama de Atividades
 
 <img title="Diagrama de Atividades Pizza-Express" src="DAPizzaExpress.png"/>
 
 # Diagrama de Casos de Uso
+
+## Casos de uso
+
+### Cliente realiza o pedido (UC01)
+O cliente irá fazer o pedido pela aplicação, onde estará disponível o cardápio com os sabores disponíveis pela franquia Pizza-Express. Só que o cliente precisa realizar um cadastro antes de poder solicitar um pedido pela aplicação.
+
+### Cliente realiza o pagamento (UC02)
+O cliente irá realizar o pagamento pela aplicação, onde serão solicitados os dados de pagamento, assim como a forma a ser selecionada, para que seja realizada a transação. O cliente precisa realizar um cadastro antes que possa finalizar um pagamento pela aplicação.
+
+### Cliente realiza o cadastro (UC03)
+O cliente ao entrar pela primeira vez na aplicação deverá fazer o cadastro, onde terá que colocar o seu nome, e-mail, telefone, endereço e senha. Após isso será liberado o acesso a aplicação para a realização de pedidos.
+
+### Entregador realiza a entrega do pedido (UC04)
+O entregador se encaminha à unidade do Pizza-Express que o sistema lhe indicou para fazer a retirada do pedido, ele irá confirmar seus dados para verificar se aquele pedido é o que de fato será entregue. Após isso ele pega o pedido e vai à casa do cliente, onde será feita a entrega.
+
+### Funcionário da rede recebe o pedido (UC05)
+Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e iniciar o preparo da(s) pizza(s), ao mesmo tempo será solicitado no sistema a procura de um entregador para aquele pedido. Após o término do preparo, ele irá embalar o pedido, conferir os dados do entregador para enfim entregar para ele.
 
 <img title="Diagrama de Casos de Uso - Pizza-Express" src="UCPizzaExpress.jpeg">
 
