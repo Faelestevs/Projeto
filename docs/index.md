@@ -101,6 +101,14 @@ Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e inici
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
+<img src="UC01.png">
+<img src="UC02_1.png">
+<img src="UC02_2.png">
+<img src="UC02_3.png">
+<img src="UC03.png">
+<img src="UC04.png">
+<img src="UC05.png">
+
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
