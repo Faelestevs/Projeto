@@ -107,7 +107,7 @@ Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e inici
 <img src="UC02_3.png">
 <img src="UC03.png">
 <img src="UC04.png">
-<img src="UC05.png">
+<img src="UC05.png" width=500px>
 
 # Diagrama de Sequência
 
