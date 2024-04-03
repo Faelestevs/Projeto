@@ -101,13 +101,13 @@ Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e inici
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-<img src="UC01.png">
-<img src="UC02_1.png">
-<img src="UC02_2.png">
-<img src="UC02_3.png">
-<img src="UC03.png">
-<img src="UC04.png">
-<img src="UC05.png" width=500px>
+<img src="UC01.png" width=800px>
+<img src="UC02_1.png" width=800px>
+<img src="UC02_2.png" width=800px>
+<img src="UC02_3.png" width=800px>
+<img src="UC03.png" width=800px>
+<img src="UC04.png" width=800px>
+<img src="UC05.png" width=800px>
 
 # Diagrama de Sequência
 
