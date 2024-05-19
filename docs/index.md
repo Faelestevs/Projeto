@@ -23,6 +23,11 @@
     - [Funcionário da rede recebe o pedido (UC05)](#funcionário-da-rede-recebe-o-pedido-uc05)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
+  - [Realizar Pedido](#realizar-pedido)
+  - [Realizar Pagamento](#realizar-pagamento)
+  - [Realizar Cadastro](#realizar-cadastro)
+  - [Realizar Entrega](#realizar-entrega)
+  - [Receber Pedido na Unidade](#receber-pedido-na-unidade)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
 - [Diagrama de Implantação](#diagrama-de-implantação)
@@ -74,7 +79,7 @@ competitivo em relação ao seu principal concorrente.
 
 # Diagrama de Atividades
 
-<img title="Diagrama de Atividades Pizza-Express" src="DAPizzaExpress.png"/>
+<img title="Diagrama de Atividades Pizza-Express" src="/docs/Imagens/DAPizzaExpress.png" width=800px/>
 
 # Diagrama de Casos de Uso
 
@@ -95,27 +100,50 @@ O entregador se encaminha à unidade do Pizza-Express que o sistema lhe indicou 
 ### Funcionário da rede recebe o pedido (UC05)
 Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e iniciar o preparo da(s) pizza(s), ao mesmo tempo será solicitado no sistema a procura de um entregador para aquele pedido. Após o término do preparo, ele irá embalar o pedido, conferir os dados do entregador para enfim entregar para ele.
 
-<img title="Diagrama de Casos de Uso - Pizza-Express" src="UCPizzaExpress.jpeg">
+<img title="Diagrama de Casos de Uso - Pizza-Express" src="/docs/Imagens/UCPizzaExpress.jpeg" width=800px>
 
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-<img src="UC01.png" width=800px>
-<img src="UC02_1.png" width=800px>
-<img src="UC02_2.png" width=800px>
-<img src="UC02_3.png" width=800px>
-<img src="UC03.png" width=800px>
-<img src="UC04.png" width=800px>
-<img src="UC05.png" width=800px>
+<img src="/docs/Imagens/UC01.png" width=800px>
+<img src="/docs/Imagens/UC02_1.png" width=800px>
+<img src="/docs/Imagens/UC02_2.png" width=800px>
+<img src="/docs/Imagens/UC02_3.png" width=800px>
+<img src="/docs/Imagens/UC03.png" width=800px>
+<img src="/docs/Imagens/UC04.png" width=800px>
+<img src="/docs/Imagens/UC05.png" width=800px>
 
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
+## Realizar Pedido
+
+<img src="/docs/Imagens/sdUC01.png" width=800px>
+
+## Realizar Pagamento
+
+<img src="/docs/Imagens/sdUC02.png" width=800px>
+
+## Realizar Cadastro
+
+<img src="/docs/Imagens/sdUC03.png" width=800px>
+
+## Realizar Entrega
+
+<img src="/docs/Imagens/sdUC04.png" width=800px>
+
+## Receber Pedido na Unidade
+
+<img src="/docs/Imagens/sdUC05.png" width=800px>
+
 # Diagrama de Classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+
+<img src="/docs/Imagens/Diagrama de Classe.png" width=800px>
+
 
 # Diagrama de Estados
 
