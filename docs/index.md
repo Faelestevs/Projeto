@@ -30,6 +30,8 @@
   - [Receber Pedido na Unidade](#receber-pedido-na-unidade)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
+  - [Cadastro](#cadastro)
+  - [Pedido](#pedido)
 - [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
@@ -148,6 +150,15 @@ Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e inici
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+
+## Cadastro
+
+<img src="/docs/Imagens/Diagrama de Estado Cadastro.png" width=800px>
+
+## Pedido
+
+<img src="/docs/Imagens/Diagrama de Estado Pedido.png" width=800px>
+
 
 # Diagrama de Implantação
 
