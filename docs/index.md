@@ -164,6 +164,8 @@ Um funcionário irá verificar e aceitar o pedido realizado pelo cliente e inici
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
+<img src="/docs/Imagens/Diagrama de Implantação.png" width=800px>
+
 # Referências
 
 *&lt;Lista de referências&gt;*
